@@ -1,6 +1,6 @@
 # Weather-App
 
-Uses the Openweather API to get the weather current weather updates for different cities of the world
+Uses the Openweather API to get the current weather updates for different cities of the world
 
 ### Preview
 ![Screenshot_75](https://user-images.githubusercontent.com/69324866/102906481-b3600980-449a-11eb-9f4e-be2a41190f88.png)
